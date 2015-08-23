@@ -5,10 +5,10 @@
 	<artifactId>restWebApp</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>tomcatExampleApp</name>
+	<name>restWebApp</name>
 	<description>Example REST Services</description>
 	<build>
-		<finalName>tomcatExampleApp</finalName>
+		<finalName>restWebApp</finalName>
 		 <plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
